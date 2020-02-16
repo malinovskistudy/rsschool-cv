@@ -27,6 +27,7 @@ In that moment to my **Hard skills** I can include following:
 * HTML
 * CSS
 * JS
+* Git
 
 ## Experience & Education 
 
