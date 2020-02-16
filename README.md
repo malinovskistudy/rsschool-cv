@@ -1,1 +1,1 @@
-https://github.com/malinovskistudy/rsschool-cv.git
+https://malinovskistudy.github.io/rsschool-cv/cv
